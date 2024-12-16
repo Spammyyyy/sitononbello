@@ -1,6 +1,3 @@
-Certo! Ecco un esempio di codice HTML e CSS per una pagina web con uno sfondo grigio scuro tendente al nero e due scritte centrate verticalmente e orizzontalmente:
-
-```html
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -35,6 +32,3 @@ Certo! Ecco un esempio di codice HTML e CSS per una pagina web con uno sfondo gr
 </html>
 ```
 
-Questo codice crea una pagina con uno sfondo grigio scuro (#1a1a1a) e due scritte ("Progetti" e "Design") centrate sia verticalmente che orizzontalmente. Puoi copiare e incollare questo codice in un file HTML e caricarlo su GitHub per visualizzare la tua pagina.
-
-Se hai bisogno di ulteriori modifiche o hai altre domande, fammi sapere! 😊
