@@ -1,0 +1,40 @@
+Certo! Ecco un esempio di codice HTML e CSS per una pagina web con uno sfondo grigio scuro tendente al nero e due scritte centrate verticalmente e orizzontalmente:
+
+```html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progetti e Design</title>
+    <style>
+        body {
+            background-color: #1a1a1a; /* Grigio scuro tendente al nero */
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+        }
+        h1, h2 {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Progetti</h1>
+        <h2>Design</h2>
+    </div>
+</body>
+</html>
+```
+
+Questo codice crea una pagina con uno sfondo grigio scuro (#1a1a1a) e due scritte ("Progetti" e "Design") centrate sia verticalmente che orizzontalmente. Puoi copiare e incollare questo codice in un file HTML e caricarlo su GitHub per visualizzare la tua pagina.
+
+Se hai bisogno di ulteriori modifiche o hai altre domande, fammi sapere! 😊
